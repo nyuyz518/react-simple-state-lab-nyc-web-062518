@@ -22,4 +22,5 @@ class Matrix extends Component {
   }
 
 }
-export default Matrix
+
+export default Matrix;
